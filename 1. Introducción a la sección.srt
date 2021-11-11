@@ -21,7 +21,7 @@ con lo que es el angular si el que es una es una forma muy útil para crear auto
 6
 00:00:26,100 --> 00:00:28,350
 directiva servicios y un montón de cosas.
-
+aca estoy haciendo un cambio
 7
 00:00:28,350 --> 00:00:32,580
 Por cierto también vamos a hacer una pequeña introducción a los parques pero no se preocupen tendremos
